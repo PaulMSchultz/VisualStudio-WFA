@@ -16,8 +16,6 @@ Visual Studio 2017 or 2019
 
 ### Screenshots
 
-![](Notes_4_Droids_Screenshots/Notes_4_Droids.png)
+![](WFA_SJG_Screenshots/WFA_SJG.png)
 
-![](Notes_4_Droids_Screenshots/Notes_4Droids2.png)
-
-![](Notes_4_Droids_Screenshots/Notes_4Droids3.png)
+![](WFA_SJG_Screenshots/WFA_SJG2.png)
