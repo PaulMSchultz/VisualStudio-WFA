@@ -1,0 +1,10 @@
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\bin\Debug\SimpleJumpingGame1.0.exe.config
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\bin\Debug\SimpleJumpingGame1.0.exe
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\bin\Debug\SimpleJumpingGame1.0.pdb
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\obj\Debug\SimpleJumpingGame1.0.csprojAssemblyReference.cache
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\obj\Debug\SimpleJumpingGame1._0.Form1.resources
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\obj\Debug\SimpleJumpingGame1._0.Properties.Resources.resources
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\obj\Debug\SimpleJumpingGame1.0.csproj.GenerateResource.cache
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\obj\Debug\SimpleJumpingGame1.0.exe
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\obj\Debug\SimpleJumpingGame1.0.pdb
+C:\Users\schul\source\repos\SimpleJumpingGame1.0\SimpleJumpingGame1.0\obj\Debug\SimpleJumpingGame1.0.csproj.CoreCompileInputs.cache
