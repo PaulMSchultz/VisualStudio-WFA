@@ -16,6 +16,6 @@ Visual Studio 2017 or 2019
 
 ### Screenshots
 
-![](WFA_SJG_Screenshots/WFA_SJG.png)
+![WFA_SJG_Screenshots](WFA_SJG_Screenshots/WFA_SJG.PNG)
 
-![](WFA_SJG_Screenshots/WFA_SJG2.png)
+![WFA_SJG_Screenshots](WFA_SJG_Screenshots/WFA_SJG2.PNG)
