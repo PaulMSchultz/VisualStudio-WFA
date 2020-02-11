@@ -1,0 +1,10 @@
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\obj\Debug\RPS-WFA.csprojAssemblyReference.cache
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\obj\Debug\RPS_WFA.Form1.resources
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\obj\Debug\RPS-WFA.csproj.GenerateResource.cache
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\bin\Debug\RPS-WFA.exe.config
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\bin\Debug\RPS-WFA.exe
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\bin\Debug\RPS-WFA.pdb
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\obj\Debug\RPS_WFA.Properties.Resources.resources
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\obj\Debug\RPS-WFA.csproj.CoreCompileInputs.cache
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\obj\Debug\RPS-WFA.exe
+C:\Users\paul.schultz\source\repos\RPS-WFA\RPS-WFA\obj\Debug\RPS-WFA.pdb
